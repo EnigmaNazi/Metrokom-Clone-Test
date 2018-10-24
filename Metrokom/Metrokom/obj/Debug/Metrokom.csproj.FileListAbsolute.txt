@@ -1,0 +1,14 @@
+D:\Kuliah\Semester 6\PKL\Metrokom\Metrokom\bin\Debug\Metrokom.exe.config
+D:\Kuliah\Semester 6\PKL\Metrokom\Metrokom\bin\Debug\Metrokom.exe
+D:\Kuliah\Semester 6\PKL\Metrokom\Metrokom\bin\Debug\Metrokom.pdb
+D:\Kuliah\Semester 6\PKL\Metrokom\Metrokom\obj\Debug\Metrokom.LOGIN_METRO.resources
+D:\Kuliah\Semester 6\PKL\Metrokom\Metrokom\obj\Debug\Metrokom.Properties.Resources.resources
+D:\Kuliah\Semester 6\PKL\Metrokom\Metrokom\obj\Debug\Metrokom.csproj.GenerateResource.Cache
+D:\Kuliah\Semester 6\PKL\Metrokom\Metrokom\obj\Debug\Metrokom.exe
+D:\Kuliah\Semester 6\PKL\Metrokom\Metrokom\obj\Debug\Metrokom.pdb
+D:\Kuliah\Semester 6\PKL\Metrokom\Metrokom\obj\Debug\Metrokom.MENU_METRO.resources
+D:\Kuliah\Semester 6\PKL\Metrokom\Metrokom\obj\Debug\Metrokom.csprojResolveAssemblyReference.cache
+D:\Kuliah\Semester 6\PKL\Metrokom\Metrokom\obj\Debug\Metrokom.BARANG_METRO.resources
+D:\Kuliah\Semester 6\PKL\Metrokom\Metrokom\obj\Debug\Metrokom.PELANGGAN_METRO.resources
+D:\Kuliah\Semester 6\PKL\Metrokom\Metrokom\obj\Debug\Metrokom.PENJUALAN_METRO.resources
+D:\Kuliah\Semester 6\PKL\Metrokom\Metrokom\obj\Debug\Metrokom.LAPORAN_METRO.resources
